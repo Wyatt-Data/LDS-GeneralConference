@@ -8,6 +8,8 @@ I once had an Elder's Quorum President who would lead lessons by simply popcorn-
 
 Every Sunday, I now use this tool to break down General Conference talks into actionable insights, summaries, and core themes. It's helped me teach and learn with more purpose.
 
+![Certificate Distribution](images/ui.jpg)
+
 ## Features
 
 - 📝 **Text Preprocessing**  
@@ -51,10 +53,14 @@ Every Sunday, I now use this tool to break down General Conference talks into ac
 
 ## Example
 
-
+![Certificate Distribution](images/search.jpg)
 
 ## Try it Out
 
 https://generalconferenceanalysis.streamlit.app/
+
+You may have to wake it up. It should take less than a minute but sometimes takes a little longer. Just be patient and refresh if needed. 
+
+![Certificate Distribution](images/sleepy.jpg)
 
 
