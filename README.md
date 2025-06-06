@@ -8,6 +8,7 @@ I once had an Elder's Quorum President who would lead lessons by simply popcorn-
 
 Every Sunday, I now use this tool to break down General Conference talks into actionable insights, summaries, and core themes. It's helped me teach and learn with more purpose.
 
+## UI of the Streamlit Site
 ![Certificate Distribution](images/ui.jpg)
 
 ## Features
@@ -51,7 +52,7 @@ Every Sunday, I now use this tool to break down General Conference talks into ac
 - Youth or Gospel Doctrine teaching aids  
 - Quick theme analysis for any talk
 
-## Example
+## Example Output of a Conference Talk
 
 ![Certificate Distribution](images/search.jpg)
 
