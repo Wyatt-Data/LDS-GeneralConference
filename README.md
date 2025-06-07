@@ -1,12 +1,12 @@
-# LDS General Conference Talk Analyzer
+# General Conference Talk Analyzer
 
 This is a personal NLP project I built to convert LDS General Conference talks into engaging, tailored lessons for Sunday study or quick personal reflection.
 
 ## Motivation
 
-I once had an Elder's Quorum President who would lead lessons by simply popcorn-reading conference talks. It was dry and uninspiring—I've been guilty of dozing off. So I decided to build something better.
+I once had an Elder's Quorum President who would lead lessons by simply popcorn-reading conference talks. who led lessons by popcorn-reading conference talks until someone in the back row fell asleep. (That someone was me—more than once.) So I built this tool out of self-defense.
 
-Every Sunday, I now use this tool to break down General Conference talks into actionable insights, summaries, and core themes. It's helped me teach and learn with more purpose.
+Now, instead of dozing off mid-sentence, I use this app every Sunday to break down General Conference talks into bite-sized insights, clear summaries, and core themes. 
 
 ## UI of the Streamlit Site
 ![Certificate Distribution](images/ui.jpg)
